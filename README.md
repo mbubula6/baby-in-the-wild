@@ -7,6 +7,4 @@ Mobile-first web app: map of playgrounds, nurseries, kindergartens, toilets and 
 3. `cp .env.example .env` and fill in the URL and anon key.
 4. `npm run dev`
 
-## Deploy
-Push to GitHub, import in Vercel (Vite is auto-detected), add the two `VITE_SUPABASE_*` env vars.
-Without the env vars the map, list and local favorites still work; accounts and community places need Supabase.
+*Author:* @Tiimiryhmä
